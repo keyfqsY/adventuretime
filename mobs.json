@@ -1,0 +1,64 @@
+{
+	"mob": {},
+	"objects": {
+		"tree": {
+			"1": {
+				"coordsx": 1965,
+				"coordsy": 988,
+				"hp": 10,
+				"dead": 0,
+				"hpp": 0
+			},
+			"2": {
+				"coordsx": 847,
+				"coordsy": 699,
+				"hp": 10,
+				"dead": 0,
+				"hpp": 0
+			},
+			"3": {
+				"coordsx": 1710,
+				"coordsy": 1054,
+				"hp": 10,
+				"dead": 0,
+				"hpp": 0
+			},
+			"5": {
+				"coordsx": 1830,
+				"coordsy": 650,
+				"hp": 10,
+				"dead": 0,
+				"hpp": 0
+			},
+			"7": {
+				"coordsx": 1882,
+				"coordsy": 722,
+				"hp": 10,
+				"dead": 0,
+				"hpp": 0
+			},
+			"9": {
+				"coordsx": 1629,
+				"coordsy": 649,
+				"hp": 10,
+				"dead": 0,
+				"hpp": 0
+			},
+			"11": {
+				"coordsx": 841,
+				"coordsy": 779,
+				"hp": 10,
+				"dead": 0,
+				"hpp": 0
+			},
+			"12": {
+				"coordsx": 1001,
+				"coordsy": 596,
+				"hp": 10,
+				"dead": 0,
+				"hpp": 0
+			}
+		}
+	},
+	"items": {}
+}
